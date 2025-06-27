@@ -1,0 +1,21 @@
+{
+  "skill": "Frontend Development",
+  "description": "Building the user interface and user experience of web applications using HTML, CSS, JavaScript, and frameworks.",
+  "why": "Frontend skills are essential for creating interactive, accessible, and visually appealing web applications.",
+  "roadmap": [
+    "Learn HTML & CSS basics",
+    "Master responsive design",
+    "Understand JavaScript fundamentals",
+    "Work with version control (Git)",
+    "Explore CSS frameworks (Bootstrap, Tailwind)",
+    "Learn a JS framework (React, Vue, Angular)",
+    "State management (Redux, Context API)",
+    "Testing (Jest, React Testing Library)",
+    "Build and deploy projects"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "freeCodeCamp Responsive Web Design", "url": "https://www.youtube.com/watch?v=4sosXZsdy-s"},
+    {"type": "Blog", "title": "MDN Web Docs - HTML", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"},
+    {"type": "GitHub", "title": "Frontend Roadmap", "url": "https://github.com/kamranahmedse/developer-roadmap"}
+  ]
+} 

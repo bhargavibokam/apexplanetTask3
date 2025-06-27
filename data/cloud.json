@@ -1,0 +1,20 @@
+{
+  "skill": "Cloud & DevOps",
+  "description": "Deploying, managing, and automating applications and infrastructure in the cloud using DevOps practices.",
+  "why": "Cloud & DevOps skills are vital for scalable, reliable, and automated software delivery.",
+  "roadmap": [
+    "Understand cloud basics (IaaS, PaaS, SaaS)",
+    "Learn a cloud provider (AWS, Azure, GCP)",
+    "Containers & Docker basics",
+    "CI/CD pipelines",
+    "Infrastructure as Code (Terraform, CloudFormation)",
+    "Monitoring & logging",
+    "Security best practices",
+    "Deploy and scale applications"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "Cloud Computing Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=2LaAJq1lB1Q"},
+    {"type": "Blog", "title": "AWS Getting Started", "url": "https://aws.amazon.com/getting-started/"},
+    {"type": "GitHub", "title": "Awesome DevOps", "url": "https://github.com/awesome-devops/awesome-devops"}
+  ]
+} 

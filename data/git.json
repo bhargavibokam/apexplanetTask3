@@ -1,0 +1,20 @@
+{
+  "skill": "Version Control (Git)",
+  "description": "Tracking and managing changes to code using Git, enabling collaboration and code history management.",
+  "why": "Git is essential for teamwork, open source, and professional software development workflows.",
+  "roadmap": [
+    "Install Git and set up a repository",
+    "Basic commands (add, commit, status)",
+    "Branching and merging",
+    "Working with remotes (push, pull, fetch)",
+    "Resolving merge conflicts",
+    "Using GitHub/GitLab",
+    "Pull requests and code reviews",
+    "Advanced topics (rebase, cherry-pick, stash)"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "Git & GitHub Crash Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=RGOj5yH7evk"},
+    {"type": "Blog", "title": "Atlassian Git Tutorials", "url": "https://www.atlassian.com/git/tutorials"},
+    {"type": "GitHub", "title": "Git Handbook", "url": "https://guides.github.com/introduction/git-handbook/"}
+  ]
+} 

@@ -1,0 +1,21 @@
+{
+  "skill": "Backend Development",
+  "description": "Building the server-side logic, databases, and APIs that power web applications.",
+  "why": "Backend skills are crucial for creating scalable, secure, and efficient applications that handle data and business logic.",
+  "roadmap": [
+    "Learn a backend language (Node.js, Python, Java, etc.)",
+    "Understand HTTP & REST APIs",
+    "Work with databases (SQL & NoSQL)",
+    "Authentication & Authorization",
+    "Error handling & logging",
+    "API documentation (Swagger, Postman)",
+    "Testing (unit, integration)",
+    "Deployment & CI/CD basics",
+    "Scalability & security best practices"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "Backend Web Development - freeCodeCamp", "url": "https://youtu.be/nu_pCVPKzTk?si=LxXcwtwOHTZHbWs5"},
+    {"type": "Blog", "title": "MDN Web Docs - Server-side programming", "url": "https://developer.mozilla.org/en-US/docs/Learn/Server-side"},
+    {"type": "GitHub", "title": "Backend Roadmap", "url": "https://github.com/kamranahmedse/developer-roadmap"}
+  ]
+} 

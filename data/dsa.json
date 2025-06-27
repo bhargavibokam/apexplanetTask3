@@ -1,0 +1,20 @@
+{
+  "skill": "Data Structures & Algorithms",
+  "description": "Understanding and applying fundamental data structures and algorithms to solve computational problems efficiently.",
+  "why": "DSA is essential for technical interviews, problem-solving, and writing optimized code.",
+  "roadmap": [
+    "Learn basic data structures (arrays, stacks, queues)",
+    "Understand linked lists, trees, and graphs",
+    "Sorting and searching algorithms",
+    "Recursion and dynamic programming",
+    "Hash tables and sets",
+    "Algorithmic complexity (Big O)",
+    "Practice coding problems (LeetCode, HackerRank)",
+    "Advanced topics (tries, segment trees, etc.)"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "Data Structures - freeCodeCamp", "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM"},
+    {"type": "Blog", "title": "GeeksforGeeks DSA", "url": "https://www.geeksforgeeks.org/data-structures/"},
+    {"type": "GitHub", "title": "Awesome Algorithms", "url": "https://github.com/tayllan/awesome-algorithms"}
+  ]
+} 

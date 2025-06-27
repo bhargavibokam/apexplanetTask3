@@ -1,0 +1,21 @@
+{
+  "skill": "AI/ML",
+  "description": "Artificial Intelligence (AI) and Machine Learning (ML) involve building systems that can perceive, reason, learn, and act autonomously or assist humans in decision-making.",
+  "why": "AI/ML powers innovations like chatbots, recommendation engines, self-driving cars, and more. It's a rapidly growing field with applications across industries.",
+  "roadmap": [
+    "Learn Python and math basics (linear algebra, probability, statistics)",
+    "Understand supervised, unsupervised, and reinforcement learning",
+    "Explore data preprocessing and feature engineering",
+    "Study core ML algorithms (regression, classification, clustering)",
+    "Dive into deep learning (neural networks, CNNs, RNNs)",
+    "Work with NLP (Natural Language Processing)",
+    "Explore computer vision (image recognition, object detection)",
+    "Experiment with AI projects (chatbots, image classifiers, etc.)",
+    "Learn about AI ethics and responsible AI"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "AI For Everyone - Andrew Ng", "url": "https://youtu.be/vStJoetOxJg?si=LhMt28AQQtcQqF3D"},
+    {"type": "Blog", "title": "Google AI Blog", "url": "https://ai.googleblog.com/"},
+    {"type": "GitHub", "title": "Awesome Artificial Intelligence", "url": "https://github.com/owainlewis/awesome-artificial-intelligence"}
+  ]
+} 

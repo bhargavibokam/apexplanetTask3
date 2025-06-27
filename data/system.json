@@ -1,0 +1,20 @@
+{
+  "skill": "System Design",
+  "description": "Designing scalable, reliable, and maintainable software systems and architectures.",
+  "why": "System design is essential for building robust applications that can handle real-world demands and growth.",
+  "roadmap": [
+    "Understand basics (scalability, reliability, availability)",
+    "Learn about databases and storage",
+    "Caching strategies",
+    "Load balancing & failover",
+    "Microservices & monoliths",
+    "Design patterns & best practices",
+    "Practice with real-world scenarios",
+    "Read system design interview resources"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "System Design Primer - Gaurav Sen", "url": "https://www.youtube.com/watch?v=UzLMhqg3_Wc"},
+    {"type": "Blog", "title": "System Design Primer (GitHub)", "url": "https://github.com/donnemartin/system-design-primer"},
+    {"type": "GitHub", "title": "Awesome System Design", "url": "https://github.com/binhnguyennus/awesome-scalability"}
+  ]
+} 

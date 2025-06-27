@@ -1,0 +1,20 @@
+{
+  "skill": "Cybersecurity",
+  "description": "Protecting systems, networks, and data from digital attacks and unauthorized access.",
+  "why": "Cybersecurity is critical for safeguarding sensitive information and ensuring trust in digital systems.",
+  "roadmap": [
+    "Understand security fundamentals",
+    "Common threats (malware, phishing, etc.)",
+    "Network security basics",
+    "Cryptography essentials",
+    "Vulnerability assessment & penetration testing",
+    "Security tools (Wireshark, Metasploit)",
+    "Incident response & forensics",
+    "Stay updated with latest threats"
+  ],
+  "resources": [
+    {"type": "YouTube", "title": "Cybersecurity Full Course - freeCodeCamp", "url": "https://www.youtube.com/watch?v=3Kq1MIfTWCE"},
+    {"type": "Blog", "title": "OWASP Top Ten", "url": "https://owasp.org/www-project-top-ten/"},
+    {"type": "GitHub", "title": "Awesome Cybersecurity", "url": "https://github.com/enaqx/awesome-cybersecurity"}
+  ]
+} 
